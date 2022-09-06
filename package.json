@@ -1,14 +1,14 @@
 {
   "name": "discord-gen-bot",
   "version": "1.1.0",
-  "description": "A discord bot can generate stocked accounts and codes.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blazsmaster/discord-gen-bot.git"
+    "url": "git+https://github.com/gaurav87565/gen-bot.git"
   },
   "keywords": [
     "discord",
@@ -16,12 +16,12 @@
     "gen-bot",
     "javascript"
   ],
-  "author": "blázs",
+  "author": "Gaurav",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/blazsmaster/discord-gen-bot/issues"
+    "url": "https://github.com/gaurav87565/gen-bot/issues"
   },
-  "homepage": "https://github.com/blazsmaster/discord-gen-bot#readme",
+  "homepage": "https://github.com/gaurav87565/gen-bot",
   "dependencies": {
     "cat-loggr": "^1.2.2",
     "discord.js": "^12.5.1",
